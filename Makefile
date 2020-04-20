@@ -9,9 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-eqos
 PKG_RELEASE:=1
-PKG_MAINTAINER:=Jianhui Zhao <jianhuizhao329@gmail.com> GaryPang
-PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/garypang13/luci-app-eqos
+PKG_MAINTAINER:=Jianhui Zhao <jianhuizhao329@gmail.com> GaryPang <https://github.com/garypang13/luci-app-eqos>
 
 include $(INCLUDE_DIR)/package.mk
 
